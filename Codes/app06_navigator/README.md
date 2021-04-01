@@ -1,6 +1,6 @@
 # app06_navigator
 
-A new Flutter project.
+Projeto Flutter para navegar entre telas.
 
 ## Getting Started
 

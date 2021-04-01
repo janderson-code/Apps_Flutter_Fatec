@@ -1,7 +1,6 @@
 # app06_imc
 
-A new Flutter project.
-
+Projeto Flutter para aula de Statefull
 ## Getting Started
 
 This project is a starting point for a Flutter application.
